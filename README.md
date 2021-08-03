@@ -4,7 +4,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhkb8322&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+<!--
 [![gold.rainnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkb8322&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/hkb8322/github-readme-stats)
+-->
   
 <!--
 **hkb8322/hkb8322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
