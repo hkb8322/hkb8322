@@ -5,7 +5,7 @@
 
 
 [![Meun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hkb8322&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=chartreuse-dark)](https://github.com/hkb8322/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbhwang)](https://github.com/gbhwang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gbhwang&layout=compact&theme=chartreuse-dark)](https://github.com/gbhwang/github-readme-stats)
 
 
 <!--
